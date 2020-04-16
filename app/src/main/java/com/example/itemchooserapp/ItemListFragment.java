@@ -32,10 +32,10 @@ public class ItemListFragment extends Fragment {
 
     static ItemListFragment newInstance(String[] items) {
         Bundle bundle = new Bundle();
-        ItemListFragment paletteFragment = new ItemListFragment();
+        ItemListFragment itemListFragment = new ItemListFragment();
         bundle.putStringArray(ITEMS_KEY, items);
-        paletteFragment.setArguments(bundle);
-        return paletteFragment;
+        itemListFragment.setArguments(bundle);
+        return itemListFragment;
     }
 
     @Override
