@@ -1,6 +1,23 @@
 <resources>
-    <string name="app_name">ItemChooserApp</string>
+    <string name="app_name">ColorChooserApp</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price">price</string>
+    <string name="priceplustax">price plus tax</string>
+    <string name="price1">price = $60.00</string>
+    <string name="price2">price = $10.00</string>
+    <string name="price3">price = $20.00</string>
+    <string name="price4">price = $70.00</string>
+    <string name="price5">price = $40.00</string>
+    <string name="price6">price = $50.00</string>
+    <string name="price7">price = $30.00</string>
+    <string name="pricePlusTax1">price plus tax (10.00%) = $66.00</string>
+    <string name="pricePlusTax2">price plus tax (10.00%) = $11.00</string>
+    <string name="pricePlusTax3">price plus tax (10.00%) = $22.00</string>
+    <string name="pricePlusTax4">price plus tax (10.00%) = $77.00</string>
+    <string name="pricePlusTax5">price plus tax (10.00%) = $44.00</string>
+    <string name="pricePlusTax6">price plus tax (10.00%) = $55.00</string>
+    <string name="pricePlusTax7">price plus tax (10.00%) = $33.00</string>
+
 </resources>
