@@ -53,6 +53,7 @@ public class ItemDetailsFragment extends Fragment {
         ImageView imageView;
         TextView textView1;
         TextView textView2;
+        TextView textView3;
         switch (item) {
             case "Blu-Ray: Star Trek: The Motion Picture Collection (All 6 Movies)":
                 imageView = view.findViewById(R.id.imageView);
@@ -61,6 +62,8 @@ public class ItemDetailsFragment extends Fragment {
                 textView1.setText(R.string.price1);
                 textView2 = view.findViewById(R.id.textView2);
                 textView2.setText(R.string.pricePlusTax1);
+                textView3 = view.findViewById(R.id.textView3);
+                textView3.setText("Blu-Ray: Star Trek: The Motion Picture Collection (All 6 Movies)");
                 break;
             case "Blu-Ray: The Boy Who Cried Werewolf: Nickelodeon":
                 imageView = view.findViewById(R.id.imageView);
