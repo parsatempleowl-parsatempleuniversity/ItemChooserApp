@@ -19,5 +19,20 @@
     <string name="pricePlusTax5">price plus tax (10.00%) = $44.00</string>
     <string name="pricePlusTax6">price plus tax (10.00%) = $55.00</string>
     <string name="pricePlusTax7">price plus tax (10.00%) = $33.00</string>
+    <string name="item1">Blu-Ray: Star Trek: The Motion Picture Collection (All 6 Movies)</string>
+    <string name="item2">Blu-Ray: The Boy Who Cried Werewolf: Nickelodeon</string>
+    <string name="item3">Blu-Ray: Real Steel</string>
+    <string name="item4">Blu-Ray: BumbleBee</string>
+    <string name="item5">Blu-Ray: Wimbledon</string>
+    <string name="item6">Blu-Ray: Family Double Feature: A Cinderella Story, Another Cinderella Story</string>
+    <string name="item7">Blu-Ray: Star Trek</string>
+    <string name="item8">Blu-Ray: Star Trek</string>
+    <string name="item9"><![CDATA[Blu-Ray: Fast & Furious: 7-Movie Collection]]></string>
+    <string name="item10">Blu-Ray: The Hunger Games: Complete 4-Film Collection</string>
+    <string name="item11">Blu-Ray: Transformers: 5-Movie Collection</string>
+    <string name="item12">Blu-Ray: Frozen: Disney</string>
+    <string name="item13">Blu-Ray: Fifty Shades: 3-Movie Collection</string>
+    <string name="item14">Blu-Ray: Twilight</string>
+    <string name="item15">Blu-Ray: Transformers: 2-Movie Collection</string>
 
 </resources>
