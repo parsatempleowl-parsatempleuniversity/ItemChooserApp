@@ -8,6 +8,7 @@ Parsa Ahmadi Nasab Emran
 https://trello.com/b/PzTerjnw/item-chooser-app
 
 ## Vision Statement
+FOR the user WHO would like to know what items are available when they shop onlne. THE Item Chooser App THAT was developed in Android Studio both shows the user the list of items and a complete description for each one of them. UNLIKE The Color Chooser App that both shows the user the list of colors and changes the background color for each one of them, The Item Chooser App shows the user the list of items and a complete description for each one of them. MY PRODUCT is also user friendly since the user can be using this app in both the portrait mode and the landscape mode and in the portrait mode the user is allowed to go back to the list of items and choose a different one.
 
 ## Persona(s)
 
